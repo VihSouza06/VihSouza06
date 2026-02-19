@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Vitória Souza, tenho 19 anos e sou natural do Paraná. Atualmente, estou cursando Engenharia de Software na Cesumar e estou em constante aprendizado na área de Tecnologia da Informação. 
+Me chamo Vitória Souza, tenho 19 anos e sou natural do Paraná. Atualmente, estou cursando o 5° Semestre de Engenharia de Software na Cesumar e estou em constante aprendizado na área de Tecnologia da Informação. 
 
 
 <p align="left">
@@ -65,6 +65,14 @@ Me chamo Vitória Souza, tenho 19 anos e sou natural do Paraná. Atualmente, est
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" 
 />
 
 <br/>
