@@ -22,9 +22,7 @@ Me chamo Vitória Souza, tenho 19 anos e sou natural do Paraná. Atualmente, est
     </a> 
 </p>
 
----
-
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -68,3 +66,18 @@ Me chamo Vitória Souza, tenho 19 anos e sou natural do Paraná. Atualmente, est
 />
 
 <br/>
+<br/>
+
+  <img 
+      width="49%" 
+      height="195px" 
+      src="https://github-readme-stats.vercel.app/api?username=VihSouza06&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117&custom_title=Estatísticas%20do%20GitHub" 
+      alt="Vitória Souza" 
+  /> 
+  <img 
+      width="41%" 
+      height="195px" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihSouza06&layout=compact&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117&custom_title=Estatísticas%20de%20Linguagens&langs_count=9"
+   />
+
+</p>
