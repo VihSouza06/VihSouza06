@@ -68,6 +68,7 @@ Me chamo Vitória Souza, tenho 19 anos e sou natural do Paraná. Atualmente, est
 <br/>
 <br/>
 
+<div align="center">  
   <img 
       width="49%" 
       height="195px" 
@@ -79,5 +80,5 @@ Me chamo Vitória Souza, tenho 19 anos e sou natural do Paraná. Atualmente, est
       height="195px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihSouza06&layout=compact&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117&custom_title=Estatísticas%20de%20Linguagens&langs_count=9"
    />
-
+</div>
 </p>
