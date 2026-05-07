@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Vitória Souza, tenho 19 anos e sou natural do Paraná. Atualmente, estou cursando o 5° Semestre de Engenharia de Software na Cesumar e estou em constante aprendizado na área de Tecnologia da Informação. 
+Atualmente, estou cursando o 5° Semestre de Engenharia de Software na Cesumar, onde venho aprofundando meus conhecimentos em desenvolvimento e boas práticas de programação. Tenho experiência com Java, JavaScript, C++ e desenvolvimento front-end, o que me proporciona uma visão ampla sobre diferentes contextos e etapas da construção de software.
 
 
 <p align="left">
@@ -30,7 +30,7 @@ Me chamo Vitória Souza, tenho 19 anos e sou natural do Paraná. Atualmente, est
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://skillicons.dev/icons?i=html" 
 />
 <img 
     align="left" 
@@ -38,23 +38,7 @@ Me chamo Vitória Souza, tenho 19 anos e sou natural do Paraná. Atualmente, est
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    src="https://skillicons.dev/icons?i=css" 
 />
 <img 
     align="left" 
@@ -62,7 +46,39 @@ Me chamo Vitória Souza, tenho 19 anos e sou natural do Paraná. Atualmente, est
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" 
+    src="https://skillicons.dev/icons?i=cpp" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=js" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=java"
+/>
+<img 
+    align="left" 
+    alt="Vue" 
+    title="Vue"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=vue"
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=mysql" 
 />
 
 <br/>
