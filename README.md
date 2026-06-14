@@ -84,7 +84,7 @@ Atualmente, estou cursando o 5° Semestre de Engenharia de Software na Cesumar, 
 <br/>
 <br/>
 
-<!--<div align="center">  
+<div align="center">  
   <img 
       width="49%" 
       height="195px" 
@@ -96,6 +96,6 @@ Atualmente, estou cursando o 5° Semestre de Engenharia de Software na Cesumar, 
       height="195px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VihSouza06&layout=compact&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117&custom_title=Estatísticas%20de%20Linguagens&langs_count=9"
    />
-</div>-->
+</div>
 
 </p>
