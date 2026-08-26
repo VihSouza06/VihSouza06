@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Atualmente, estou cursando o 5° Semestre de Engenharia de Software na Cesumar, onde venho aprofundando meus conhecimentos em desenvolvimento e boas práticas de programação. Tenho experiência com Java, JavaScript, C++ e desenvolvimento front-end, o que me proporciona uma visão ampla sobre diferentes contextos e etapas da construção de software.
+Atualmente, estou cursando o 6° Semestre de Engenharia de Software na Cesumar, onde venho aprofundando meus conhecimentos em desenvolvimento e boas práticas de programação. Tenho experiência com Java, JavaScript, C++ e desenvolvimento front-end, o que me proporciona uma visão ampla sobre diferentes contextos e etapas da construção de software.
 
 
 <p align="left">
